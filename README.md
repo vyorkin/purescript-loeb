@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vyorkin/purescript-loeb.svg?branch=master)](https://travis-ci.org/vyorkin/purescript-loeb)
+
 # purescript-loeb
 
 A lazy loeb implementation.
