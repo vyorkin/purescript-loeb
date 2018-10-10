@@ -18,7 +18,8 @@
   ],
   "devDependencies": {
     "purescript-assert": "^4.0.0",
-    "purescript-psci-support": "^4.0.0"
+    "purescript-psci-support": "^4.0.0",
+    "purescript-math": "^2.1.1"
   },
   "dependencies": {
     "purescript-prelude": "^4.1.0",
